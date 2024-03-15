@@ -7,4 +7,4 @@ The dataset contains null values which was appropriately dealt. Understanding th
 # Exploratory Data Analysis
 Some valuable insight on factors affecting patient adherence to ART treatment was generated.
 
-# Check out the full detail and Python codes using the link here
+# Check out the full detail and Python codes using the link [here](https://github.com/chrisaliyuda/ART-Intake-Prediction/blob/main/ART_Prediction_Project.ipynb)
